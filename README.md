@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/insha-17/Leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/insha-17/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/insha-17/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/insha-17/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/insha-17/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Bit Manipulation
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/insha-17/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/insha-17/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/insha-17/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/insha-17/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Linked List
 |  |
 | ------- |
