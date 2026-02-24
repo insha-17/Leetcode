@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/insha-17/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/insha-17/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/insha-17/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Enumeration
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/insha-17/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/insha-17/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
