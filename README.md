@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/insha-17/Leetcode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/insha-17/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/insha-17/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [2109-adding-spaces-to-a-string](https://github.com/insha-17/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/insha-17/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Bit Manipulation
 |  |
@@ -61,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/insha-17/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2109-adding-spaces-to-a-string](https://github.com/insha-17/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 ## String
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/insha-17/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/insha-17/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2109-adding-spaces-to-a-string](https://github.com/insha-17/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -74,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/insha-17/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Simulation
+|  |
+| ------- |
+| [2109-adding-spaces-to-a-string](https://github.com/insha-17/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
