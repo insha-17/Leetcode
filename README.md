@@ -66,12 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/insha-17/Leetcode/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/insha-17/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/insha-17/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/insha-17/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/insha-17/Leetcode/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/insha-17/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1021-remove-outermost-parentheses](https://github.com/insha-17/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/insha-17/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
