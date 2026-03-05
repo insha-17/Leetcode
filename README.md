@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/insha-17/Leetcode/tree/master/0258-add-digits) |
 | [2109-adding-spaces-to-a-string](https://github.com/insha-17/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 ## Divide and Conquer
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/insha-17/Leetcode/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/insha-17/Leetcode/tree/master/0258-add-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/insha-17/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/insha-17/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/insha-17/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/insha-17/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/insha-17/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
