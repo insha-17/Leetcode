@@ -10,33 +10,23 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-       int len=0;
-       ListNode temp=head;
-       if(head==null){
-        return null;
-       }   
-       while(temp!=null){
-        len++;
-        temp=temp.next;
-       }
-
-
-       int k=len-n +1;
-       if(k==1){
-        return head.next;
-       }
-       int cnt=0;
-       temp=head;
-       ListNode prev=null;
-       while(temp!=null){
-       cnt++;
-       if(cnt==k){
-        prev.next=temp.next;
-        break;
-       }
-       prev=temp;
-       temp=temp.next;
-       }
-       return head;
+     ListNode dummy= new ListNode(0);
+     dummy.next=head;
+     ListNode slow=dummy;
+     ListNode fast=dummy;
+     
+     //fast ko n steps aage move kro
+     for(int i=0;i<=n;i++){
+        fast=fast.next;
+     }
+     // slow and fast both moves 1 step
+     while(fast!=null){
+        slow=slow.next;
+        fast=fast.next;
+        //here the slow stands at just nth node k peeche wle node p 
+        //bcs the slow fast pointer k distance apart hai already
+     }
+     slow.next=slow.next.next;
+     return dummy.next;
     }
 }
