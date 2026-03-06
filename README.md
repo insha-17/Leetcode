@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/insha-17/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/insha-17/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/insha-17/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/insha-17/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -136,12 +137,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/insha-17/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/insha-17/Leetcode/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/insha-17/Leetcode/tree/master/0258-add-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/insha-17/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/insha-17/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/insha-17/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/insha-17/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/insha-17/Leetcode/tree/master/0206-reverse-linked-list) |
