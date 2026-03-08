@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/insha-17/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/insha-17/Leetcode/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/insha-17/Leetcode/tree/master/0258-add-digits) |
+| [2469-convert-the-temperature](https://github.com/insha-17/Leetcode/tree/master/2469-convert-the-temperature) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/insha-17/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/insha-17/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
