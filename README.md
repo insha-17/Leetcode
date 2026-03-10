@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/insha-17/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/insha-17/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0976-largest-perimeter-triangle](https://github.com/insha-17/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1776-car-fleet-ii](https://github.com/insha-17/Leetcode/tree/master/1776-car-fleet-ii) |
 | [2109-adding-spaces-to-a-string](https://github.com/insha-17/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/insha-17/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/insha-17/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/insha-17/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/insha-17/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/insha-17/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1776-car-fleet-ii](https://github.com/insha-17/Leetcode/tree/master/1776-car-fleet-ii) |
 ## Counting
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/insha-17/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/insha-17/Leetcode/tree/master/0412-fizz-buzz) |
 | [0976-largest-perimeter-triangle](https://github.com/insha-17/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1776-car-fleet-ii](https://github.com/insha-17/Leetcode/tree/master/1776-car-fleet-ii) |
 | [2469-convert-the-temperature](https://github.com/insha-17/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/insha-17/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/insha-17/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -175,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/insha-17/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1776-car-fleet-ii](https://github.com/insha-17/Leetcode/tree/master/1776-car-fleet-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1776-car-fleet-ii](https://github.com/insha-17/Leetcode/tree/master/1776-car-fleet-ii) |
 <!---LeetCode Topics End-->
