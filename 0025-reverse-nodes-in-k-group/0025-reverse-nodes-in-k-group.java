@@ -9,50 +9,47 @@
  * }
  */
 class Solution {
-    public ListNode reverseKGroup(ListNode head, int k) {
-         if(head==null ||head.next==null)return head;
-   ListNode temp=head;
-   int len=0;
-   while(temp!=null){
-     len++;
-     temp=temp.next;
-   } 
+    ListNode getKthNode(ListNode temp,int k){
+        k--;
+        while(temp!=null && k>0){
+            k--;
+            temp=temp.next;
 
- ListNode dummy=new ListNode(0);
-    dummy.next=head;
-    ListNode prevGroup=dummy;
-
-    while(len>=k){
-
-        ListNode curr=prevGroup.next;
-        ListNode next=curr.next;
-
-        for(int i=1;i<k;i++){
-            curr.next=next.next;
-            next.next=prevGroup.next;
-            prevGroup.next=next;
-            next=curr.next;
         }
-
-        prevGroup=curr;
-        len-=k;
+        return temp;
     }
-
-    return dummy.next;
-//    int i=1;
-//    temp=head;
-//    int n=k;
-//    while( n>0  && i<=(len/n) ){
-// //    while(i<=(len/k){
-//     // int n=k;
-//     // while(n>0){
-//         ListNode front=temp.next;
-//         temp.next=temp.next.next;
-//         front.next=temp;
-//         temp=temp.next;
-//         n--;
-//         i++;
-//      } 
-//       return head;
+    public ListNode reverseKGroup(ListNode head, int k) {
+     ListNode temp=head;
+     ListNode prevLast=null;
+     while(temp!=null){
+        ListNode kthNode=getKthNode(temp,k);
+        if(kthNode ==null){
+            if(prevLast!=null) prevLast.next=temp;
+            break;
+        }
+        ListNode nextNode=kthNode.next;
+        kthNode.next=null;
+        reverseLL(temp);
+        if(temp==head){
+            head=kthNode;
+        }else{
+            prevLast.next=kthNode;
+        }
+        prevLast=temp;
+        // temp=kthNode;
+        temp=nextNode;
+     }
+     return head;
+    }
+    ListNode reverseLL(ListNode temp){
+        ListNode prev=null;
+        ListNode curr=temp;
+        while(curr!=null){
+      ListNode next=curr.next;
+      curr.next=prev;
+      prev=curr;
+      curr=next;
+        }
+        return prev;
     }
 }
