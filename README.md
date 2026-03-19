@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-car-fleet-ii](https://github.com/insha-17/Leetcode/tree/master/1776-car-fleet-ii) |
 | [2109-adding-spaces-to-a-string](https://github.com/insha-17/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/insha-17/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2951-find-the-peaks](https://github.com/insha-17/Leetcode/tree/master/2951-find-the-peaks) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/insha-17/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/insha-17/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2951-find-the-peaks](https://github.com/insha-17/Leetcode/tree/master/2951-find-the-peaks) |
 ## Matrix
 |  |
 | ------- |
