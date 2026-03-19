@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/insha-17/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/insha-17/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/insha-17/Leetcode/tree/master/0229-majority-element-ii) |
+| [0260-single-number-iii](https://github.com/insha-17/Leetcode/tree/master/0260-single-number-iii) |
 | [0704-binary-search](https://github.com/insha-17/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/insha-17/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0976-largest-perimeter-triangle](https://github.com/insha-17/Leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/insha-17/Leetcode/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/insha-17/Leetcode/tree/master/0260-single-number-iii) |
 ## Binary Search
 |  |
 | ------- |
