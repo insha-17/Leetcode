@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/insha-17/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/insha-17/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/insha-17/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/insha-17/Leetcode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/insha-17/Leetcode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/insha-17/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/insha-17/Leetcode/tree/master/0383-ransom-note) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/insha-17/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/insha-17/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/insha-17/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/insha-17/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/insha-17/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/insha-17/Leetcode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/insha-17/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/insha-17/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/insha-17/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/insha-17/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/insha-17/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/insha-17/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/insha-17/Leetcode/tree/master/0412-fizz-buzz) |
 | [0976-largest-perimeter-triangle](https://github.com/insha-17/Leetcode/tree/master/0976-largest-perimeter-triangle) |
