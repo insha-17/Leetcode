@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/insha-17/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/insha-17/Leetcode/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/insha-17/Leetcode/tree/master/0260-single-number-iii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/insha-17/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/insha-17/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/insha-17/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0976-largest-perimeter-triangle](https://github.com/insha-17/Leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/insha-17/Leetcode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/insha-17/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/insha-17/Leetcode/tree/master/0383-ransom-note) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/insha-17/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/insha-17/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
