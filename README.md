@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/insha-17/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2951-find-the-peaks](https://github.com/insha-17/Leetcode/tree/master/2951-find-the-peaks) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/insha-17/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/insha-17/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/insha-17/Leetcode/tree/master/3099-harshad-number) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/insha-17/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/insha-17/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/insha-17/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
