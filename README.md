@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/insha-17/Leetcode/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/insha-17/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/insha-17/Leetcode/tree/master/0260-single-number-iii) |
+| [0461-hamming-distance](https://github.com/insha-17/Leetcode/tree/master/0461-hamming-distance) |
 ## Binary Search
 |  |
 | ------- |
