@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/insha-17/Leetcode/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/insha-17/Leetcode/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/insha-17/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/insha-17/Leetcode/tree/master/0260-single-number-iii) |
 | [0461-hamming-distance](https://github.com/insha-17/Leetcode/tree/master/0461-hamming-distance) |
 ## Binary Search
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/insha-17/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/insha-17/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/insha-17/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
