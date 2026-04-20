@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/insha-17/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/insha-17/Leetcode/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/insha-17/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0942-di-string-match](https://github.com/insha-17/Leetcode/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/insha-17/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0992-subarrays-with-k-different-integers](https://github.com/insha-17/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/insha-17/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/insha-17/Leetcode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/insha-17/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/insha-17/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0942-di-string-match](https://github.com/insha-17/Leetcode/tree/master/0942-di-string-match) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/insha-17/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/insha-17/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 ## String
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/insha-17/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/insha-17/Leetcode/tree/master/0415-add-strings) |
 | [0647-palindromic-substrings](https://github.com/insha-17/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0942-di-string-match](https://github.com/insha-17/Leetcode/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/insha-17/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1694-reformat-phone-number](https://github.com/insha-17/Leetcode/tree/master/1694-reformat-phone-number) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/insha-17/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/insha-17/Leetcode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/insha-17/Leetcode/tree/master/0561-array-partition) |
+| [0942-di-string-match](https://github.com/insha-17/Leetcode/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/insha-17/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [2706-buy-two-chocolates](https://github.com/insha-17/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Heap (Priority Queue)
