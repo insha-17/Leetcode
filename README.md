@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/insha-17/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/insha-17/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/insha-17/Leetcode/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/insha-17/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/insha-17/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/insha-17/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/insha-17/Leetcode/tree/master/0415-add-strings) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/insha-17/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/insha-17/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/insha-17/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/insha-17/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/insha-17/Leetcode/tree/master/0342-power-of-four) |
 ## Number Theory
 |  |
