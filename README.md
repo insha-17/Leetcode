@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/insha-17/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/insha-17/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2951-find-the-peaks](https://github.com/insha-17/Leetcode/tree/master/2951-find-the-peaks) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/insha-17/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/insha-17/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/insha-17/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
