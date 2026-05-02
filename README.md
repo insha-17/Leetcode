@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/insha-17/Leetcode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/insha-17/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/insha-17/Leetcode/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/insha-17/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/insha-17/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/insha-17/Leetcode/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/insha-17/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/insha-17/Leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/insha-17/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/insha-17/Leetcode/tree/master/0561-array-partition) |
+| [0860-lemonade-change](https://github.com/insha-17/Leetcode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/insha-17/Leetcode/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/insha-17/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [2706-buy-two-chocolates](https://github.com/insha-17/Leetcode/tree/master/2706-buy-two-chocolates) |
