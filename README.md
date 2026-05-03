@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/insha-17/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/insha-17/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2109-adding-spaces-to-a-string](https://github.com/insha-17/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [3174-clear-digits](https://github.com/insha-17/Leetcode/tree/master/3174-clear-digits) |
 ## Stack
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/insha-17/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/insha-17/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1776-car-fleet-ii](https://github.com/insha-17/Leetcode/tree/master/1776-car-fleet-ii) |
+| [3174-clear-digits](https://github.com/insha-17/Leetcode/tree/master/3174-clear-digits) |
 ## Counting
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/insha-17/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/insha-17/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2109-adding-spaces-to-a-string](https://github.com/insha-17/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [3174-clear-digits](https://github.com/insha-17/Leetcode/tree/master/3174-clear-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
