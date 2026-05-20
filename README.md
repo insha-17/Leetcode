@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/insha-17/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/insha-17/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/insha-17/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/insha-17/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1776-car-fleet-ii](https://github.com/insha-17/Leetcode/tree/master/1776-car-fleet-ii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/insha-17/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2109-adding-spaces-to-a-string](https://github.com/insha-17/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/insha-17/Leetcode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/insha-17/Leetcode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/insha-17/Leetcode/tree/master/0461-hamming-distance) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/insha-17/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/insha-17/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/insha-17/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/insha-17/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/insha-17/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/insha-17/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/insha-17/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/insha-17/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/insha-17/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/insha-17/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/insha-17/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/insha-17/Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/insha-17/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1694-reformat-phone-number](https://github.com/insha-17/Leetcode/tree/master/1694-reformat-phone-number) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/insha-17/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/insha-17/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/insha-17/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/insha-17/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/insha-17/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/insha-17/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/insha-17/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/insha-17/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Simulation
