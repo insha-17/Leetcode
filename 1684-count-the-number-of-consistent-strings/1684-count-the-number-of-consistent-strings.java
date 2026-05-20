@@ -1,0 +1,20 @@
+class Solution {
+    public int countConsistentStrings(String allowed, String[] words) {
+       int res=0;
+       Set<Character> set=new HashSet<>();
+       for(char c:allowed.toCharArray()){
+        set.add(c);
+       } 
+       for(String word :words){
+        boolean isConsistent=true;
+        for(char ch:word.toCharArray()){
+            if(!set.contains(ch)){
+                isConsistent=false;
+                break;
+            }
+            }
+            if(isConsistent)res++;
+        }
+       return res;
+    }
+}
