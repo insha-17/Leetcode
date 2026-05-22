@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/insha-17/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/insha-17/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1776-car-fleet-ii](https://github.com/insha-17/Leetcode/tree/master/1776-car-fleet-ii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/insha-17/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2073-time-needed-to-buy-tickets](https://github.com/insha-17/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2109-adding-spaces-to-a-string](https://github.com/insha-17/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/insha-17/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/insha-17/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1694-reformat-phone-number](https://github.com/insha-17/Leetcode/tree/master/1694-reformat-phone-number) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/insha-17/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/insha-17/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/insha-17/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2109-adding-spaces-to-a-string](https://github.com/insha-17/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [3174-clear-digits](https://github.com/insha-17/Leetcode/tree/master/3174-clear-digits) |
