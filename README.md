@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/insha-17/Leetcode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/insha-17/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/insha-17/Leetcode/tree/master/0704-binary-search) |
+| [0804-unique-morse-code-words](https://github.com/insha-17/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0860-lemonade-change](https://github.com/insha-17/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/insha-17/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/insha-17/Leetcode/tree/master/0877-stone-game) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/insha-17/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/insha-17/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/insha-17/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/insha-17/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0930-binary-subarrays-with-sum](https://github.com/insha-17/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/insha-17/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/insha-17/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/insha-17/Leetcode/tree/master/0415-add-strings) |
 | [0647-palindromic-substrings](https://github.com/insha-17/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0771-jewels-and-stones](https://github.com/insha-17/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/insha-17/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0942-di-string-match](https://github.com/insha-17/Leetcode/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/insha-17/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/insha-17/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
