@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/insha-17/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2073-time-needed-to-buy-tickets](https://github.com/insha-17/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2109-adding-spaces-to-a-string](https://github.com/insha-17/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2574-left-and-right-sum-differences](https://github.com/insha-17/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/insha-17/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2706-buy-two-chocolates](https://github.com/insha-17/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/insha-17/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/insha-17/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/insha-17/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/insha-17/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2574-left-and-right-sum-differences](https://github.com/insha-17/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Union-Find
 |  |
 | ------- |
