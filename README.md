@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/insha-17/Leetcode/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/insha-17/Leetcode/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/insha-17/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/insha-17/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/insha-17/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/insha-17/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/insha-17/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/insha-17/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/insha-17/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/insha-17/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/insha-17/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/insha-17/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/insha-17/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/insha-17/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/insha-17/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/insha-17/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/insha-17/Leetcode/tree/master/0229-majority-element-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/insha-17/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/insha-17/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/insha-17/Leetcode/tree/master/0561-array-partition) |
 | [0976-largest-perimeter-triangle](https://github.com/insha-17/Leetcode/tree/master/0976-largest-perimeter-triangle) |
