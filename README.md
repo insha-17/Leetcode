@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/insha-17/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1776-car-fleet-ii](https://github.com/insha-17/Leetcode/tree/master/1776-car-fleet-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/insha-17/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/insha-17/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2073-time-needed-to-buy-tickets](https://github.com/insha-17/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2109-adding-spaces-to-a-string](https://github.com/insha-17/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2574-left-and-right-sum-differences](https://github.com/insha-17/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/insha-17/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/insha-17/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/insha-17/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/insha-17/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/insha-17/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/insha-17/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/insha-17/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/insha-17/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/insha-17/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/insha-17/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/insha-17/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
