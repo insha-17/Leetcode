@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/insha-17/Leetcode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/insha-17/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/insha-17/Leetcode/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/insha-17/Leetcode/tree/master/0735-asteroid-collision) |
 | [0804-unique-morse-code-words](https://github.com/insha-17/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0860-lemonade-change](https://github.com/insha-17/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/insha-17/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/insha-17/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/insha-17/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/insha-17/Leetcode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/insha-17/Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/insha-17/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/insha-17/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/insha-17/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/insha-17/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/insha-17/Leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/insha-17/Leetcode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/insha-17/Leetcode/tree/master/0735-asteroid-collision) |
 | [2073-time-needed-to-buy-tickets](https://github.com/insha-17/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/insha-17/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2109-adding-spaces-to-a-string](https://github.com/insha-17/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
