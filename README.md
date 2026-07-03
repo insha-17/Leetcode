@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/insha-17/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/insha-17/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/insha-17/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/insha-17/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2574-left-and-right-sum-differences](https://github.com/insha-17/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/insha-17/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2706-buy-two-chocolates](https://github.com/insha-17/Leetcode/tree/master/2706-buy-two-chocolates) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/insha-17/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/insha-17/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/insha-17/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/insha-17/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3174-clear-digits](https://github.com/insha-17/Leetcode/tree/master/3174-clear-digits) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/insha-17/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3884-first-matching-character-from-both-ends](https://github.com/insha-17/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
