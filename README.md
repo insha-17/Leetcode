@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/insha-17/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/insha-17/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/insha-17/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/insha-17/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/insha-17/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/insha-17/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/insha-17/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -476,4 +478,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/insha-17/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/insha-17/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
