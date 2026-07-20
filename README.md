@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/insha-17/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/insha-17/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/insha-17/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/insha-17/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/insha-17/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/insha-17/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1512-number-of-good-pairs](https://github.com/insha-17/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/insha-17/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/insha-17/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/insha-17/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/insha-17/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/insha-17/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/insha-17/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1656-design-an-ordered-stream](https://github.com/insha-17/Leetcode/tree/master/1656-design-an-ordered-stream) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/insha-17/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/insha-17/Leetcode/tree/master/0561-array-partition) |
 | [0976-largest-perimeter-triangle](https://github.com/insha-17/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1331-rank-transform-of-an-array](https://github.com/insha-17/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/insha-17/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Math
 |  |
