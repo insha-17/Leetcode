@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/insha-17/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/insha-17/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/insha-17/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/insha-17/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/insha-17/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/insha-17/Leetcode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/insha-17/Leetcode/tree/master/0290-word-pattern) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/insha-17/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/insha-17/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/insha-17/Leetcode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/insha-17/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/insha-17/Leetcode/tree/master/0290-word-pattern) |
 | [0318-maximum-product-of-word-lengths](https://github.com/insha-17/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/insha-17/Leetcode/tree/master/0344-reverse-string) |
