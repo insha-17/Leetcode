@@ -528,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/insha-17/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/insha-17/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
